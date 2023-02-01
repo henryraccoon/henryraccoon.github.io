@@ -1,0 +1,125 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/testttweb/</id>
+  <title>HenryRaccooon</title>
+  <subtitle>A personal website of Henry with blog of transitioning to IT.</subtitle>
+  <updated>2023-02-01T03:09:55+00:00</updated>
+  <author>
+    <name>Hennadiy Pohribnyy</name>
+    <uri>http://localhost:4000/testttweb/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/testttweb/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/testttweb/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Hennadiy Pohribnyy </rights>
+  <icon>/testttweb/assets/img/favicons/favicon.ico</icon>
+  <logo>/testttweb/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>My Blog</title>
+    <link href="http://localhost:4000/testttweb/posts/my-blog/" rel="alternate" type="text/html" title="My Blog" />
+    <published>2023-01-28T10:30:00+00:00</published>
+  
+    <updated>2023-01-28T10:30:00+00:00</updated>
+  
+    <id>http://localhost:4000/testttweb/posts/my-blog/</id>
+    <content src="http://localhost:4000/testttweb/posts/my-blog/" />
+    <author>
+      <name>Hennadiy Pohribnyy</name>
+    </author>
+
+  
+    
+    <category term="ABOUT" />
+    
+    <category term="BLOG" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      2022-12-08 
+Decided to change my career and get into IT. First thoughts. Feeling pretty lost and have no idea how. Researching.
+
+
+
+2022-12-09 
+Got some books to start with. Also watching Youtube tutorials. 
+
+my first books
+
+
+
+2022-12-10
+First “Hello world!”
+
+
+
+2022-12-12 
+Found Sololearn app.
+
+
+
+2022-12-13 
+Finished Tech For Everyone course. (everything seems easy)
+Started Python Core course. E...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>About me</title>
+    <link href="http://localhost:4000/testttweb/posts/about-me/" rel="alternate" type="text/html" title="About me" />
+    <published>2023-01-27T11:30:00+00:00</published>
+  
+    <updated>2023-01-27T11:30:00+00:00</updated>
+  
+    <id>http://localhost:4000/testttweb/posts/about-me/</id>
+    <content src="http://localhost:4000/testttweb/posts/about-me/" />
+    <author>
+      <name>Hennadiy Pohribnyy</name>
+    </author>
+
+  
+    
+    <category term="ABOUT" />
+    
+    <category term="AUTHOR" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This is me. My name is Hennadiy Pohribnyy. I know ukrainian names are not the easiest to pronounce so you can call me Henry. 
+I’m 30 years old and just recently moved to the UK. Trying to start a new life and new career. On this website you will be able to see my journey into IT and probably a bit more about me and my pesonality. Thank you c:
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
