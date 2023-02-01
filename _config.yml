@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   A personal website of Henry with blog of transitioning to IT.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://henryraccoon.github.io/testttweb'
+url: 'https://henryraccoon.github.io'
 
 github:
   username: henryraccoon            # change to your github username
