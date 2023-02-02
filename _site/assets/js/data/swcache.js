@@ -1,42 +1,42 @@
 const resource = [
     /* --- CSS --- */
-    '/testttweb/assets/css/style.css',
+    '/henryraccoon.github.io/assets/css/style.css',
 
     /* --- PWA --- */
-    '/testttweb/app.js',
-    '/testttweb/sw.js',
+    '/henryraccoon.github.io/app.js',
+    '/henryraccoon.github.io/sw.js',
 
     /* --- HTML --- */
-    '/testttweb/index.html',
-    '/testttweb/404.html',
+    '/henryraccoon.github.io/index.html',
+    '/henryraccoon.github.io/404.html',
 
     
-        '/testttweb/about/',
+        '/henryraccoon.github.io/about/',
     
-        '/testttweb/categories/',
+        '/henryraccoon.github.io/categories/',
     
-        '/testttweb/tags/',
+        '/henryraccoon.github.io/tags/',
     
-        '/testttweb/archives/',
+        '/henryraccoon.github.io/archives/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/testttweb/assets/img/favicons/android-chrome-192x192.png',
-        '/testttweb/assets/img/favicons/android-chrome-512x512.png',
-        '/testttweb/assets/img/favicons/apple-touch-icon.png',
-        '/testttweb/assets/img/favicons/favicon-16x16.png',
-        '/testttweb/assets/img/favicons/favicon-32x32.png',
-        '/testttweb/assets/img/favicons/favicon.ico',
-        '/testttweb/assets/img/favicons/mstile-150x150.png',
-        '/testttweb/assets/js/dist/categories.min.js',
-        '/testttweb/assets/js/dist/commons.min.js',
-        '/testttweb/assets/js/dist/home.min.js',
-        '/testttweb/assets/js/dist/misc.min.js',
-        '/testttweb/assets/js/dist/page.min.js',
-        '/testttweb/assets/js/dist/post.min.js',
-        '/testttweb/assets/js/dist/pvreport.min.js'
+        '/henryraccoon.github.io/assets/img/favicons/android-chrome-192x192.png',
+        '/henryraccoon.github.io/assets/img/favicons/android-chrome-512x512.png',
+        '/henryraccoon.github.io/assets/img/favicons/apple-touch-icon.png',
+        '/henryraccoon.github.io/assets/img/favicons/favicon-16x16.png',
+        '/henryraccoon.github.io/assets/img/favicons/favicon-32x32.png',
+        '/henryraccoon.github.io/assets/img/favicons/favicon.ico',
+        '/henryraccoon.github.io/assets/img/favicons/mstile-150x150.png',
+        '/henryraccoon.github.io/assets/js/dist/categories.min.js',
+        '/henryraccoon.github.io/assets/js/dist/commons.min.js',
+        '/henryraccoon.github.io/assets/js/dist/home.min.js',
+        '/henryraccoon.github.io/assets/js/dist/misc.min.js',
+        '/henryraccoon.github.io/assets/js/dist/page.min.js',
+        '/henryraccoon.github.io/assets/js/dist/post.min.js',
+        '/henryraccoon.github.io/assets/js/dist/pvreport.min.js'
 ];
 
 /* The request url with below domain will be cached */
