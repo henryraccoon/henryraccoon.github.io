@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>HenryRaccooon</title>
   <subtitle>A personal website of Henry with blog of transitioning to IT.</subtitle>
-  <updated>2023-02-04T18:29:13+00:00</updated>
+  <updated>2023-12-24T23:53:07+00:00</updated>
   <author>
     <name>Hennadiy Pohribnyy</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/my-blog/" rel="alternate" type="text/html" title="My Blog" />
     <published>2023-01-28T10:30:00+00:00</published>
   
-    <updated>2023-02-04T18:16:41+00:00</updated>
+    <updated>2023-02-04T18:30:22+00:00</updated>
   
     <id>http://localhost:4000/posts/my-blog/</id>
     <content src="http://localhost:4000/posts/my-blog/" />
@@ -48,13 +48,13 @@
 
 
 
-      2022-12-08 
+      2022-12-08
 Decided to change my career and get into IT. First thoughts. Feeling pretty lost and have no idea how. Researching.
 
 
 
-2022-12-09 
-Got some books to start with. Also watching Youtube tutorials. 
+2022-12-09
+Got some books to start with. Also watching Youtube tutorials.
 
 my first books
 
@@ -65,14 +65,14 @@ First “Hello world!”
 
 
 
-2022-12-12 
+2022-12-12
 Found Sololearn app.
 
 
 
-2022-12-13 
+2022-12-13
 Finished Tech For Everyone course. (everything seems easy)
-Started Python Core course. E...
+Started Python Core course. Excite...
     </summary>
   
 
@@ -84,7 +84,7 @@ Started Python Core course. E...
     <link href="http://localhost:4000/posts/about-me/" rel="alternate" type="text/html" title="About me" />
     <published>2023-01-27T11:30:00+00:00</published>
   
-    <updated>2023-01-27T11:30:00+00:00</updated>
+    <updated>2023-02-04T18:30:22+00:00</updated>
   
     <id>http://localhost:4000/posts/about-me/</id>
     <content src="http://localhost:4000/posts/about-me/" />
