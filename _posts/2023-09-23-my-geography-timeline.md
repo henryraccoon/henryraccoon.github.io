@@ -6,7 +6,7 @@ tags: [about] # TAG names should always be lowercase
 pin: true
 toc: false
 image:
-  path: /assets/img/pics/mgt.png
+  path: /assets/img/pics/mgt.jpg
 ---
 
 1992-02-16 Wittstock, Germany.
