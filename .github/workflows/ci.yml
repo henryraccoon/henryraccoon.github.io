@@ -20,9 +20,15 @@ jobs:
 
     strategy:
       matrix:
-        ruby: 3
+        ruby: [2.7, 3]
 
     steps:
+      - name: Clear Bundler Cache
+        run: |
+          echo "Clearing Bundler cache..."
+          bundler cache --all
+        if: false
+
       - name: Checkout
         uses: actions/checkout@v3
         with:
