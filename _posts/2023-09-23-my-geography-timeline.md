@@ -27,13 +27,13 @@ Malorechenskoe, Crimea, Ukraine. (traveling)
 
 ---
 
-1994-07
+1993-07
 
 Kobleve, Ukraine. (traveling)
 
 ---
 
-1997-07
+1996-07
 
 Sozopol, Bulgaria. (traveling)
 
@@ -45,7 +45,7 @@ Malorechenskoe, Crimea, Ukraine. (traveling)
 
 ---
 
-2000-06
+2002-06
 
 Odesa, Ukraine. (traveling)
 
@@ -53,7 +53,7 @@ Gurzuf, Crimea, Ukraine. (traveling)
 
 ---
 
-2001-12
+2002-12
 
 Kyiv, Ukraine. (traveling)
 
@@ -62,6 +62,12 @@ Kyiv, Ukraine. (traveling)
 2003-07
 
 Crimea, Ukraine. (traveling)
+
+---
+
+2004-07
+
+Malorechenskoe, Crimea, Ukraine. (traveling)
 
 ---
 
@@ -229,7 +235,7 @@ Kryvyi Rih, Ukraine. (traveling)
 
 Beijing, China. (traveling)
 
-Changchun, China. (moved)
+Changchun, Jilin, China. (moved)
 
 ---
 
@@ -249,7 +255,7 @@ London, UK. (traveling)
 
 2017-05
 
-Inner Mongolia, China. (traveling)
+Tongliao, Inner Mongolia, China. (traveling)
 
 ---
 
@@ -267,7 +273,7 @@ Huashan, Shaanxi, China. (traveling)
 
 Jilin, Jilin, China. (traveling)
 
-Shenyang, China. (traveling)
+Shenyang, Liaoning, China. (traveling)
 
 ---
 
@@ -275,7 +281,7 @@ Shenyang, China. (traveling)
 
 Shanghai, China. (lived 1 month)
 
-Hangzhou, China. (traveling)
+Hangzhou, Zhejiang, China. (traveling)
 
 ---
 
@@ -287,29 +293,29 @@ Jilin, Jilin, China. (traveling)
 
 2018-07
 
-Qinghuangdao, China. (traveling)
+Qinghuangdao, Hebei, China. (traveling)
 
 ---
 
 2018-08
 
-Dalian, China. (traveling)
+Dalian, Liaoning, China. (traveling)
 
 Beijing, China. (traveling)
 
 Chongqing, China. (traveling)
 
-Chengdu, China. (traveling)
+Chengdu, Sichuan, China. (traveling)
 
 ---
 
 2018-09
 
-Kunming, China. (traveling)
+Kunming, Yunnan China. (traveling)
 
-Guangzhou, China. (traveling)
+Guangzhou, Guangdong, China. (traveling)
 
-Shenzhen, China. (traveling)
+Shenzhen, Guangdong, China. (traveling)
 
 Hong-Kong. (traveling)
 
@@ -317,7 +323,7 @@ Bangkok, Thailand. (traveling)
 
 Kyiv, Ukraine. (traveling)
 
-Chernivtsi, Ukraine. (lived 1 month)
+Chernivtsi, Ukraine. (lived 2 month)
 
 ---
 
@@ -335,7 +341,7 @@ Lutsk, Ukraine. (traveling)
 
 2018-12
 
-Changchun, China. (living)
+Changchun, Jilin, China. (living)
 
 ---
 
@@ -347,7 +353,7 @@ Beijing, China. (traveling)
 
 2019-08
 
-Qingdao, China. (traveling)
+Qingdao, Shandong, China. (traveling)
 
 ---
 
@@ -373,29 +379,29 @@ Brussels, Belgium. (traveling)
 
 2020-03
 
-Changchun, China. (living)
+Changchun, Jilin, China. (living)
 
 ---
 
 2021-01
 
-Sanya, China. (traveling)
+Sanya, Hainan, China. (traveling)
 
-Guilin, China. (traveling)
+Guilin, Guangxi, China. (traveling)
 
-Yangshuo, China. (traveling)
+Yangshuo, Guangxi, China. (traveling)
 
 ---
 
 2021-07
 
-Zhangjiajie, China. (traveling)
+Zhangjiajie, Hunan, China. (traveling)
 
-Changsha, China. (traveling)
+Changsha, Hunan, China. (traveling)
 
-Kunming, China. (traveling)
+Kunming, Yunnan, China. (traveling)
 
-Dali, China. (traveling)
+Dali, Yunnan, China. (traveling)
 
 Shangri-La, Tibet. (traveling)
 
@@ -419,7 +425,7 @@ Gyantse, Tibet. (traveling)
 
 2022-01
 
-Wanning, China. (traveling)
+Wanning, Hainan, China. (traveling)
 
 ---
 
@@ -427,7 +433,7 @@ Wanning, China. (traveling)
 
 Beijing, China. (traveling)
 
-Xiamen, China. (traveling)
+Xiamen, Fujian, China. (traveling)
 
 Riga, Latvia. (moved)
 
@@ -504,6 +510,18 @@ Portsmouth, UK. (traveling)
 2024-01
 
 Paris, France. (traveling)
+
+Kuala Lumpur, Malaysia (traveling)
+
+Bandar Seri Begawan, Brunei (traveling)
+
+Shenzhen, Guangdong, China (traveling)
+
+---
+
+2024-01
+
+Cologne, Germany (traveling)
 
 ---
 
