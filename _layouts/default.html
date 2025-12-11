@@ -38,64 +38,35 @@ Upscope('init');
       <div id="main" class="container pl-xl-4 pr-xl-4">
         {{ content }}
 
-         <button id="upscope-watch-url-btn" style="margin-top: 1rem;">
-          Get watch URL
-        </button>
+        <button id="upscope-watch-url-btn" style="margin-top: 1rem;">
+  Get watch URL
+</button>
 
-        <script>
-          (function () {
-            function handleGetWatchUrlClick() {
-              if (typeof window.Upscope !== 'function') {
-                alert('Upscope is not loaded yet.');
-                return;
-              }
+<script>
+  (function () {
+    function handleGetWatchUrlClick() {
+      if (typeof window.Upscope !== 'function') {
+        alert('Upscope is not loaded yet.');
+        return;
+      }
 
-              window.Upscope('getShortId', function (shortId) {
-                if (!shortId) {
-                  alert('Failed to get short id.');
-                  return;
-                }
+      // No REST, no CORS. Just use the SDK:
+      window.Upscope('getWatchLink', function (link) {
+        if (!link) {
+          alert('Could not get watch link.');
+          return;
+        }
 
-                fetch('https://api.upscope.io/v1.3/visitors/' + encodeURIComponent(shortId) + '/watch_url', {
-                  method: 'POST',
-                  headers: {
-                    'X-Api-Key': 'glBlsCrNOOP43yNkxR4TdAeP9gzDcdKOGeaL41S8VFZFBmP5cH',
-                    'Content-Type': 'application/json'
-                  },
-                  body: JSON.stringify({
-                    agent: {
-                      id: 'henry',
-                      name: 'Henry P'
-                    }
-                  })
-                })
-                .then(function (response) {
-                  if (!response.ok) {
-                    throw new Error('HTTP ' + response.status);
-                  }
-                  return response.json();
-                })
-                .then(function (data) {
-                  if (data && data.watch_url) {
-                    alert(data.watch_url);
-                  } else {
-                    alert('Request succeeded but "watch_url" is missing in the response.');
-                    console.log('Response:', data);
-                  }
-                })
-                .catch(function (error) {
-                  console.error('Error creating watch URL:', error);
-                  alert('Failed to create watch URL. Check console for details.');
-                });
-              });
-            }
+        alert(link);
+      });
+    }
 
-            var btn = document.getElementById('upscope-watch-url-btn');
-            if (btn) {
-              btn.addEventListener('click', handleGetWatchUrlClick);
-            }
-          })();
-        </script>
+    var btn = document.getElementById('upscope-watch-url-btn');
+    if (btn) {
+      btn.addEventListener('click', handleGetWatchUrlClick);
+    }
+  })();
+</script>
         
       </div>
 
